@@ -15,7 +15,7 @@ const TopCard = styled.div`
    backface-visibility: hidden;
    clip-path:inset(0 0 50% 0);
    color:#d3506f;
-   border-radius:0.36rem;
+   border-radius:0.8rem;
    ${props => props.bottom && css`
    background-color:hsl(236, 21%, 26%);
    clip-path:inset(50% 0 0 0);
@@ -39,6 +39,7 @@ const CardWrapper = styled.div`
    box-shadow: 0 0.71rem 0.57rem 0 rgba(0,0,0,0.8);
    perspective:1200px;
    font-size:6rem;;
+   border-radius:0.8rem;
 
    
 `
