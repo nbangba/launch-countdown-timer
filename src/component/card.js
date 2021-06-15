@@ -32,8 +32,8 @@ const TopCard = styled.div`
 
 const CardWrapper = styled.div`
    position:relative;
-   min-width: 11rem;
-   height:11.5rem;
+   min-width: 11.5rem;
+   height:11rem;
    margin:1.4rem;
    transform-style: preserve-3d;
    box-shadow: 0 0.71rem 0.57rem 0 rgba(0,0,0,0.8);
