@@ -1,5 +1,11 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap');
+
 .App {
   text-align: center;
+  height: 100vh;
+  
 }
 
 .App-logo {
